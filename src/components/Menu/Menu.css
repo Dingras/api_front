@@ -1,0 +1,10 @@
+.top-menu-bar{
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    min-height: 3rem;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

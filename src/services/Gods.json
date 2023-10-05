@@ -1,0 +1,101 @@
+[
+    {
+        "id_god" : 1,
+        "name" : "Thor",
+        "url_image_god":"https://static.wikia.nocookie.net/smite_gamepedia/images/7/7e/SkinArt_Thor_Default.jpg/revision/latest/scale-to-width-down/250?cb=20160505052941",
+        "pantheon" : "Nordic",
+        "abilities" : {
+            "pasive" : {
+                "name":"Warrior's Madness",
+                "url_image":"https://static.wikia.nocookie.net/smite_gamepedia/images/d/da/Icons_Thor_Passive.png/revision/latest?cb=20190727121143",
+                "description":"Thor gains Physical Power for each enemy god within 55 units of him."
+            },
+            "first_ability":{
+                "name":"Mjolnir's Attunement",
+                "url_image":"https://static.wikia.nocookie.net/smite_gamepedia/images/9/93/Icons_Thor_A01.png/revision/latest?cb=20190727120951",
+                "description":"Thor throws Mjolnir forward, doing damage to all enemies in its path. If hit twice, minions will take 100% damage while gods take 200% damage from the return. While the hammer is flying, pressing the button again will teleport Thor to his hammer."
+            },
+            "second_ability":{
+                "name":"Tectonic Rift",
+                "url_image":"https://static.wikia.nocookie.net/smite_gamepedia/images/b/b4/Icons_Thor_A02.png/revision/latest?cb=20190727121056",
+                "description":"Thor slams his hammer on the ground, causing a fissure to appear in front of him, Stunning and damaging enemies, and blocking movement."
+            },
+            "third_ability":{
+                "name":"Berserker Barrage",
+                "url_image":"https://static.wikia.nocookie.net/smite_gamepedia/images/3/31/Icons_Thor_A03.png/revision/latest?cb=20190727121123",
+                "description":"Thor spins his hammer around him dealing damage to Enemies in front of him up to 3 times and those behind him up to 2 times. The final swing deals extra damage. Thor is immune to Knockup for the duration."
+            },
+            "ultimate":{
+                "name":"Anvil of Dawn",
+                "url_image":"https://static.wikia.nocookie.net/smite_gamepedia/images/2/2b/Icons_Thor_A04.png/revision/latest?cb=20190727121133",
+                "description":"After a short buildup, Thor leaps into the air. While in the air, Thor can target a great distance away to come crashing down in the area, dealing damage and Stunning all enemies in the radius. For 6 seconds after landing, when Thor deals damage to a god lightning will arc, damaging the enemy hit and up to two additional enemies within 35 units. Subsequent lighting hits deal 50% damage."
+            }
+        }
+    },
+    {
+        "id_god" : 2,
+        "name" : "Anhur",
+        "url_image_god":"https://static.wikia.nocookie.net/smite_gamepedia/images/1/1e/SkinArt_Anhur_Default.jpg/revision/latest/scale-to-width-down/250?cb=20160505052008",
+        "pantheon" : "Egyptian",
+        "abilities" : {
+            "pasive" : {
+                "name":"Enfeeble",
+                "url_image":"https://static.wikia.nocookie.net/smite_gamepedia/images/4/44/Icons_Anhur_Passive.png/revision/latest?cb=20190727124217",
+                "description":"Anhur's spear attacks reduce the enemy target's Physical Protection for 3 seconds."
+            },
+            "first_ability":{
+                "name":"Shifting Sands",
+                "url_image":"https://static.wikia.nocookie.net/smite_gamepedia/images/4/45/Icons_Anhur_A01.png/revision/latest?cb=20190727124316",
+                "description":"Anhur erects an obelisk from the ground, blocking all player movement. The surrounding sands Slow enemies and increase the damage of Anhur's Basic Attacks against targets in the sands."
+            },
+            "second_ability":{
+                "name":"Impale",
+                "url_image":"https://static.wikia.nocookie.net/smite_gamepedia/images/4/44/Icons_Anhur_A02.png/revision/latest?cb=20190727124305",
+                "description":"Anhur hurls his spear with great might. If the spear hits a god, they take damage and are knocked back. Gods knocked back into a wall are Stunned. Enemies hit by the pushed god take damage. The spear passes through minions, doing damage to them as well."
+            },
+            "third_ability":{
+                "name":"Disperse",
+                "url_image":"https://static.wikia.nocookie.net/smite_gamepedia/images/2/2b/Icons_Anhur_A03.png/revision/latest?cb=20190727124237",
+                "description":"Anhur leaps to his ground target location, doing damage and knocking back all enemies in the radius where he lands."
+            },
+            "ultimate":{
+                "name":"Desert Fury",
+                "url_image":"https://static.wikia.nocookie.net/smite_gamepedia/images/4/4f/Icons_Anhur_A04.png/revision/latest?cb=20190727124159",
+                "description":"Summoning the fury of the desert, Anhur hunkers down and throws empowered spears that pass through everything, doing damage to all enemies in their path. He is immune to Crowd Control for the duration."
+            }
+        }
+    },
+    {
+        "id_god" : 3,
+        "name" : "",
+        "url_image_god":"",
+        "pantheon" : "",
+        "abilities" : {
+            "pasive" : {
+                "name":"",
+                "url_image":"",
+                "description":""
+            },
+            "first_ability":{
+                "name":"",
+                "url_image":"",
+                "description":""
+            },
+            "second_ability":{
+                "name":"",
+                "url_image":"",
+                "description":""
+            },
+            "third_ability":{
+                "name":"",
+                "url_image":"",
+                "description":""
+            },
+            "ultimate":{
+                "name":"",
+                "url_image":"",
+                "description":""
+            }
+        }
+    }
+]
